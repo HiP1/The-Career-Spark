@@ -1,4 +1,4 @@
-# Resume Rework — Overclaiming Guide
+# The Career Spark — Overclaiming Guide
 
 A framework for handling candidates who inflate their achievements, resist downward corrections, or frame their experience in language they cannot defend. This guide requires a different approach than handling underselling candidates — the psychology is different, the resistance patterns are different, and the risks are higher because overclaiming damages the candidate's credibility more than underselling does.
 

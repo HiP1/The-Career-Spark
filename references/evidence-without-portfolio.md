@@ -1,4 +1,4 @@
-# Resume Rework — Evidence Without Portfolio
+# The Career Spark — Evidence Without Portfolio
 
 How to extract proof of competence when the candidate has no published work, no portfolio, no GitHub, and no tangible artifacts. The career itself is the evidence. This guide shows how to find it.
 
@@ -98,14 +98,96 @@ For very early-career candidates or career changers with no relevant evidence:
 **The resume is thin because the career is thin.** The skill cannot manufacture evidence. The honest response is to help the candidate identify what they can build in the next 3–6 months:
 
 - **Charity and volunteer work** — any organization that accepts help. Even organizing a community event demonstrates project management, communication, and initiative.
-- **Pro bono work** — offering skills for free to nonprofits, small businesses, or community organizations. A candidate who redesigns a local charity's website has a portfolio piece.
+- **Pro bono work** — offering skills for free to nonprofits, small businesses, or community organizations. A candidate who redesigns a local charity's website has a portfolio piece. A candidate who organizes a fundraiser has event management evidence. A candidate who tutors immigrants has teaching, patience, and cross-cultural communication evidence.
 - **Personal projects with tangible outputs** — a blog, a newsletter, an app, a community Discord server, a side business, a YouTube channel. The output does not need to be impressive. It needs to exist.
 - **Open-source contributions** — even small ones. Documentation fixes, bug reports, translation work. Participation in a collaborative project demonstrates working with others in a professional context.
 - **Online courses with portfolio components** — not the certificate (which proves attendance) but the project deliverable (which proves capability).
 - **Community involvement** — coaching a youth sports team demonstrates leadership. Organizing a neighborhood association demonstrates project management. Tutoring demonstrates communication and patience. The candidate may dismiss these because they are "not professional." They are evidence of professional skills exercised in non-professional contexts.
 - **Internships and part-time work** — the student who managed the night shift at a restaurant demonstrates real-time prioritization, team coordination, customer de-escalation, and operating under pressure. They just do not know to frame it that way.
+- **Competitions, hackathons, and challenges** — industry competitions, case study contests, coding challenges, design jams. Even participating demonstrates initiative. Placing demonstrates capability.
+- **Professional association membership** — joining, attending events, volunteering for committees. Active participation in a professional body signals commitment to the field and creates networking evidence.
 
 The AI should help the candidate identify which activities would build the strongest evidence for their specific target roles, not just list generic options. A candidate targeting product management should build a different kind of evidence than one targeting data analysis.
+
+---
+
+## Turning Daily Work Into Evidence
+
+Many candidates, especially those in operational, administrative, or support roles, believe they have "nothing to show" because their work does not produce visible artifacts. This is almost never true. Daily work generates evidence — the candidate just does not recognize it.
+
+### The "what did you actually do today" method
+
+Ask the candidate to describe a typical workday in detail. Not their job description — their actual day. What they did from start to finish. In the details, evidence hides:
+
+- "I open the tickets and prioritize them" → triage, decision-making under uncertainty, workload management
+- "I talk to the clients when they're upset" → de-escalation, empathy, communication under pressure, customer retention
+- "I train the new people" → knowledge transfer, curriculum design, mentoring, patience
+- "I make sure the numbers match at the end of the month" → data integrity, attention to detail, financial reconciliation, error detection
+- "I coordinate between the warehouse and the office" → cross-functional communication, logistics, process management
+- "I handle the schedule when people call in sick" → resource allocation under constraint, contingency planning, team coordination
+
+The candidate considers these activities unremarkable because they do them every day. That is exactly why they are evidence. Consistent daily execution of complex judgment tasks IS the skill.
+
+### The "what breaks when you're on vacation" method
+
+Ask: "When you go on vacation, what goes wrong? What do your colleagues call you about? What waits for you when you get back?" The answers reveal the candidate's unique contribution — the things that only they do, that no one else can cover, that the organization depends on without realizing it.
+
+### The "what did you change" method
+
+Ask: "Is there anything about your job that you do differently than the person who had it before you? Or differently than how you were trained?" Almost every worker improves something — a shortcut, a better process, a different order of operations, a template they created, a relationship they built. These improvements are evidence of initiative and process thinking even if no one formally recognized them.
+
+---
+
+## Industry-Specific Evidence Examples
+
+### Healthcare (nurses, technicians, administrators)
+
+- Patient outcomes and satisfaction scores (even team-level, if individual is unavailable)
+- Certifications and continuing education hours (these are portfolio equivalents in healthcare)
+- Protocols improved or created
+- Training delivered to junior staff
+- Cross-department coordination (ER to ICU transitions, discharge planning)
+- Incident response and crisis management (specific stories, anonymized)
+- Committee participation (quality improvement, safety, infection control)
+
+### Education (teachers, administrators, counselors)
+
+- Student outcome improvements (test scores, graduation rates, behavioral metrics)
+- Curriculum developed or adapted
+- Programs created (after-school, tutoring, enrichment)
+- Parent communication and community engagement
+- Professional development delivered to colleagues
+- Grants written or received
+- Technology adoption and integration in the classroom
+
+### Trades and skilled labor (electricians, plumbers, mechanics, technicians)
+
+- Certifications and licenses (these ARE the portfolio)
+- Complex jobs completed successfully (specific examples, anonymized if needed)
+- Safety record (zero incidents over N years)
+- Apprentices trained
+- Problems diagnosed that others could not solve
+- Efficiency improvements (faster methods, better tools, reduced waste)
+- Customer retention and referral rate
+
+### Retail and hospitality (managers, supervisors, team leads)
+
+- Store metrics (sales, shrinkage, customer satisfaction, employee retention)
+- Team size managed and scheduling complexity
+- Training programs delivered
+- Crisis handling (angry customers, safety incidents, staffing emergencies)
+- Inventory management and loss prevention
+- Process improvements (checkout speed, stocking efficiency, customer flow)
+
+### Administrative and office roles
+
+- Volume handled (calls, tickets, invoices, filings, reports)
+- Systems managed or implemented
+- Process improvements (automation, template creation, workflow redesign)
+- Cross-department coordination
+- Events organized
+- Onboarding delivered
+- The "go-to person" evidence: what do people come to you for?
 
 ---
 

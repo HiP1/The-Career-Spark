@@ -1,4 +1,4 @@
-# Resume Rework — Narrative Archetypes
+# The Career Spark — Narrative Archetypes
 
 A library of common career through-line patterns. Use during Phase 2 to accelerate pattern-matching when identifying the candidate's recurring career signature.
 

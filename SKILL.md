@@ -76,7 +76,7 @@ If the user asks for a surface-level language polish without targeting a specifi
 
 ## Workflow Overview
 
-The full process has six phases. Each phase builds on the previous one. Phases 1–3 are the core (extract → narrate → draft). Phases 4–6 extend the output for specific applications.
+The full process has seven phases. Each phase builds on the previous one. Phases 1–3 are the core (extract → narrate → draft). Phases 4–6 extend the output for specific applications. Phase 7 maximizes the chance of the application reaching the right person.
 
 For career transitions or major reworks, each phase benefits from a separate session with correction checkpoints.
 
@@ -88,6 +88,7 @@ For career transitions or major reworks, each phase benefits from a separate ses
 | 4. Target | Match to specific roles | Role-resume fit analysis, ATS optimization |
 | 5. Cover | Write targeted arguments | Cover letters per role |
 | 6. Evaluate | Stress-test from buyer's perspective | Vulnerability report and preparation plan |
+| 7. Deliver | Get the materials to the right person | Distribution strategy, outreach plan |
 
 Read `references/principles.md` for the detailed principle set that applies across all phases.
 
@@ -101,7 +102,7 @@ Career rework touches identity, self-worth, failure, and fear of rejection. In a
 
 **Encourage the candidate to express themselves fully.** When discussing failures, limitations, or identity corrections, the most valuable input often comes when the candidate has room to think and articulate. Do not rush through these moments. Do not immediately reframe what the candidate says. Let them finish, acknowledge what they said, then work with it.
 
-**Urgency versus depth.** Some candidates need a resume by Friday. The full six-phase process is not possible. Compress to extraction + draft, skip narrative construction, and acknowledge what is being lost: "We are moving fast, which means the resume will be functional but not as strategically targeted as it could be. If you have time later, we can revisit and sharpen." Do not refuse to help because the timeline does not allow the ideal process. Help within the constraints, and be honest about the trade-offs.
+**Urgency versus depth.** Some candidates need a resume by Friday. The full seven-phase process is not possible. Compress to extraction + draft, skip narrative construction, and acknowledge what is being lost: "We are moving fast, which means the resume will be functional but not as strategically targeted as it could be. If you have time later, we can revisit and sharpen." Do not refuse to help because the timeline does not allow the ideal process. Help within the constraints, and be honest about the trade-offs.
 
 ---
 
@@ -133,7 +134,8 @@ Career rework touches identity, self-worth, failure, and fear of rejection. In a
 
 ### What to Watch For
 
-- **"Built it before it had a name" patterns.** If the candidate did something years before the industry standardized it, name it explicitly. "Implemented click-based pricing in 2000" is different from "early CPC adopter."
+- **Skills the candidate knows by old names or no name at all.** Industries rename things. What the candidate called "running the weekly team sync" is now "agile sprint ceremonies." What they called "figuring out which customers to call back first" is now "lead scoring." What they did instinctively for years may now have a formal framework, a certification, or a keyword that ATS systems filter on. The candidate often does not know the current terminology because they were too busy doing the work to watch the industry name it. During extraction, actively translate what the candidate describes into current industry language. Tell the candidate: "What you were doing has a name now. The market calls it [X]." This has a direct resume impact — the candidate's skills may not match job listing keywords simply because they know the skill by its original name or by no name at all. It also has a motivational impact: learning that something you considered obvious is now a valued, named competency changes how you see your own career.
+- **"Built it before it had a name" patterns.** A stronger version of terminology evolution: the candidate did not just use an old name — they were doing the thing before anyone named it. "Implemented click-based pricing in 2000" is different from "early CPC adopter." If the candidate was practicing something years before the industry standardized it, name the gap explicitly. This is evidence of instinct and foresight, not just experience.
 - **Recurring meta-patterns.** Look for skills that repeat across roles: organic leadership emergence, force multiplier behavior, frontier building, market-timing patience. These are career signatures, not bullet points.
 - **Cross-domain transfer.** Skills from one domain often have direct analogs in another. Map them explicitly with the candidate's input.
 - **Behavioral convergence.** If multiple sources (colleagues, different AI sessions, self-assessment) identify the same trait independently, it is high-confidence.
@@ -225,17 +227,29 @@ See `references/principles.md` for detailed guidance on handling corrections, cr
 
 ## Phase 4: Target Identification & ATS Optimization
 
-**Goal:** Match the candidate to specific roles and ensure the resume survives automated screening.
+**Goal:** Find the right roles for this candidate, ensure the resume survives automated screening, and give the candidate a realistic picture of the market.
 
 ### Process
 
-1. **Search current openings** at target companies. Fetch full job descriptions.
-2. **Map each role** against the candidate's profile. Rate on: conceptual fit, experience fit, ATS survival likelihood, logistics.
-3. **Present the landscape honestly** and let the candidate challenge assessments. The candidate sees connections the AI may miss.
-4. **Extract key terms** from each job description. Check which appear in the resume.
-5. **Fill gaps with truthful translations.** The candidate's language and the job's language often describe the same things differently. An ATS does not know they overlap. Translate, do not fabricate.
-6. **Leave gaps that cannot be honestly filled.** Overclaiming to match a keyword creates a worse problem than a keyword miss.
-7. **Translate non-standard education.** Non-US educational systems are invisible to anglophone ATS. Add explicit equivalence language.
+1. **Search the market proactively.** Do not wait for the candidate to bring a listing. Search job boards, company career pages, and industry-specific platforms for roles that match the candidate's profile from the extraction and narrative. Cast wide — the candidate may not know what roles exist for their skill set, especially if they are transitioning domains. A candidate who says "I want to be a product manager" may not know that "product strategy," "technical program manager," or "design operations" exist and might be a better match for their pattern.
+
+2. **Present a landscape, not a single target.** Show the candidate several roles across a range of fit levels — strong matches, arguable matches, and stretch targets. For each, explain why it matches and where the gaps are. This gives the candidate a map of what is available and where they stand, not just a single yes/no on one listing.
+
+3. **Research salary ranges.** For each role type and market, search for current salary data (Glassdoor, Levels.fyi, industry salary surveys, job listings that include compensation). Present this to the candidate honestly. Some candidates will discover they are worth more than they expected. Some will discover the market has shifted and their expectations need adjusting. Either way, confronting the reality early prevents painful surprises later. The salary data also informs role targeting — a candidate may deprioritize a role type once they see the compensation reality, or may become more motivated when they see what the market pays for their skills.
+
+4. **Let the candidate react and reprioritize.** After seeing the landscape and salary data, the candidate may change their targeting. "I had no idea that role existed" or "I didn't realize that pays so much less than what I'm used to" are both valuable recalibrations. This is the extraction phase paying off — the candidate's full skill inventory often opens doors they did not know were there.
+
+5. **For the roles the candidate chooses to pursue, fetch full job descriptions.** Map each role against the candidate's profile. Rate on: conceptual fit, experience fit, ATS survival likelihood, and logistics.
+
+6. **Extract key terms** from each job description. Check which appear in the resume.
+
+7. **Fill gaps with truthful translations.** The candidate's language and the job's language often describe the same things differently. An ATS does not know they overlap. Translate, do not fabricate.
+
+8. **Leave gaps that cannot be honestly filled.** Overclaiming to match a keyword creates a worse problem than a keyword miss.
+
+9. **Translate non-standard education.** Non-US educational systems are invisible to anglophone ATS. Add explicit equivalence language.
+
+10. **If a specific role emerges as a strong target, suggest Phase 7.** The transition is natural here: "This role looks like a strong match. Would you like to go deeper — research the company, find out who manages this team, and build a strategy to get your application to the right person?" This is how Phase 7 activates organically during the process, not just when the candidate returns later with a listing.
 
 ### The Candidate Knows Their Work Better Than You
 
@@ -284,6 +298,57 @@ Each vulnerability identified becomes one of: something to fix in the resume, so
 
 ---
 
+## Phase 7: Application Intelligence (Optional — Activate When Ready)
+
+**Goal:** Maximize the probability that the application reaches a human who can appreciate it. A great resume that disappears into an ATS has failed the goal.
+
+This phase is optional. Not every candidate has a specific dream role at the end of Phase 6, and not every application warrants deep organizational research. The candidate may complete Phases 1–6, leave with their documents, and return weeks or months later when they find a specific job listing they care about.
+
+**At the end of Phase 6, tell the candidate this phase exists:** "You now have your resume, cover letter, and narrative. When you find a specific role you want to target, come back with the job listing and we can run application intelligence — organizational research, decision-maker profiling, and a distribution strategy to maximize the chance your materials reach the right person."
+
+**When the candidate returns with a job listing:** Start Phase 7. The inputs are the finished resume, cover letter, narrative document (from previous sessions or handoff), and the job listing URL. If a handoff document exists from earlier sessions, read it first. If not, ask the candidate to upload their finished materials.
+
+This phase is best done in a dedicated session with the finished materials as inputs, because organizational research involves significant web searching that fills context quickly.
+
+### Process
+
+1. **Honest probability assessment.** Before optimizing, assess the baseline honestly. Map the candidate's profile against every requirement in the listing. Identify real gaps and real strengths. Produce a probability estimate with explicit reasoning. Lead with honesty, not encouragement — the candidate can only optimize what they can see clearly.
+
+2. **Let the candidate challenge the assessment.** The candidate knows things the AI does not. Location advantages, industry context, transferable experience the AI undervalued. Every challenge should be evaluated on its merits and the estimate adjusted if the argument holds. Probability modeling is collaborative.
+
+3. **Research the company.** What the AI can find online: careers page, hiring philosophy, public statements, recent news, organizational changes. What the candidate may already know or can find offline: company culture from people who work there, the real hiring process versus the posted one, which departments are growing, what the day-to-day is actually like. Ask the candidate: "Do you know anyone who works there, used to work there, or knows someone who does?" That answer changes the entire strategy.
+
+4. **Map who will read the application.** Some of this is online research (LinkedIn, company team pages, press). Much of it is not. Ask the candidate: "Do you know who manages this team? Have you met anyone from this department? Does your network include anyone who could tell you who the hiring manager is?" In many industries, the company website shows nothing about internal structure. The candidate's network is the org chart.
+
+5. **Understand what the reader cares about.** For public-facing leaders in tech, this means reading their blog posts and tweets. For a hospital department head, it means understanding what their department's challenges are. For a school principal, it means knowing what the district is prioritizing this year. The AI can research what is public. The candidate should be guided to find what is not: "If you can have a conversation with anyone at or connected to this organization before you apply, what would you want to learn?"
+
+6. **Revise materials based on research.** The cover letter may need rewriting now that the audience is specific. The resume emphasis may shift. New angles may emerge. The facts stay the same. The framing adapts to what will resonate with the specific reader and organization.
+
+7. **Design the distribution strategy together.** The formal application is one path. The candidate's network, industry connections, and offline channels are often stronger. Work through all available paths with the candidate:
+   - **Network connections:** Does the candidate know anyone at the company? Anyone who knows someone? Employee referrals are the highest-conversion path at most organizations.
+   - **Professional community:** Industry associations, alumni networks, professional groups, local meetups. Is the candidate active in a community where people from the target company also participate?
+   - **Recruiters and headhunters:** Does the candidate work with one? Should they? In some industries, recruiters are the primary channel.
+   - **Direct outreach:** Cold emails, LinkedIn messages, or even in-person introductions. The AI can help draft these. The candidate executes them.
+   - **Informational conversations:** Before or alongside the formal application, can the candidate have a conversation with someone at the company — not to ask for a job, but to learn about the team and demonstrate genuine interest?
+   - **Physical presence:** In some industries and regions, showing up matters. Career fairs, industry events, open houses, conferences where the target company is present.
+
+   The AI's role is to help the candidate think through every available channel and prepare materials for each. The candidate's role is to activate the channels the AI cannot reach.
+
+8. **Prepare outreach materials.** For whatever channels the candidate will use — cold emails, LinkedIn messages, referral requests, recruiter briefs — draft them. Different recipients and channels need different framing. Keep everything brief, specific, and authentic to the candidate's voice.
+
+### Key Principles
+
+- **The candidate's network is usually the strongest channel.** Ask about it before researching online alternatives.
+- **The company's own words are the best evidence for fit.** Do not guess at their standards when the company has published them.
+- **Tailor the message to the reader, not the role.** Different decision-makers respond to different signals from the same candidate.
+- **Two independent paths to the same destination.** Formal application plus one informal channel is the minimum. Each additional path increases the probability independently.
+- **The AI researches. The candidate connects.** The AI can draft, strategize, and find public information. The candidate has the relationships, the physical presence, and the ability to have real conversations. The strategy should leverage both.
+- **Every probability estimate should be decomposable.** When the candidate challenges an estimate, both parties should identify which variable is disputed and adjust only that one.
+
+See `references/application-intelligence.md` for the full framework including organizational mapping, decision-maker research, outreach strategy, and probability modeling.
+
+---
+
 ## Reference Files
 
 | File | When to Read |
@@ -294,6 +359,8 @@ Each vulnerability identified becomes one of: something to fix in the resume, so
 | `references/narrative-archetypes.md` | During Phase 2. Library of common career through-line patterns with examples, to accelerate pattern-matching |
 | `references/evidence-without-portfolio.md` | When the candidate has no published work, portfolio, or tangible artifacts. How to extract proof from the career itself |
 | `references/cover-letter-guide.md` | During Phase 5. Contains IP protection strategy, opening sentence patterns, and gap-naming framework |
+| `references/application-intelligence.md` | During Phase 7. Contains organizational mapping, decision-maker research, outreach strategy, probability modeling, and distribution planning |
+| `references/candidate-psychology.md` | When the candidate shows emotional distress, defensiveness, resistance, or self-image conflicts. Explicit guidance for models that need help reading and responding to candidate emotional states |
 | `references/cultural-norms.md` | When the candidate targets non-US or non-English-speaking markets. Contains explicit cultural conventions by country and region, designed for models without deep cultural inference |
 
 ---
@@ -337,7 +404,7 @@ Include the candidate's corrections verbatim. These are the most valuable data i
 Use this structure. Every section is required.
 
 ```
-# Resume Rework — Session Handoff
+# The Career Spark — Session Handoff
 
 ## Candidate
 - Name:
@@ -391,7 +458,7 @@ chat history reviewed — and what each source contributed)
 
 ## Scope Boundary: What This Skill Does Not Do
 
-This skill produces resumes, CVs, cover letters, and the strategic narrative that underpins them. It does not cover interview preparation, salary negotiation, LinkedIn content strategy, or career coaching beyond what is needed to build the documents.
+This skill produces resumes, CVs, cover letters, the strategic narrative that underpins them, and (optionally) a distribution strategy to maximize the chance the application reaches the right person. It does not cover interview preparation, salary negotiation, LinkedIn content strategy, or career coaching beyond what is needed to build and deliver the application.
 
 However, the outputs of this skill are designed to feed forward into those activities. When the process is complete, the candidate leaves with:
 
@@ -399,10 +466,11 @@ However, the outputs of this skill are designed to feed forward into those activ
 - **A skill extraction report** — a comprehensive inventory of capabilities the candidate can reference when preparing for technical or behavioral interviews
 - **Targeted resumes and cover letters** — per-role documents with the framing, evidence, and gap-acknowledgment already worked out
 - **Interview stories** (collected during Phase 2) — ranked by tier with deployment guidance
+- **Organizational research** (from Phase 7, if completed) — team structure, decision-maker profiles, company philosophy, and probability assessment that directly inform interview preparation
 
-These are the natural inputs for an interview preparation skill or coaching process. The narrative document especially is a powerful scaffold — it contains the identity statement, the through-line, friction points with prepared two-layer responses, and humanizing anecdotes. A separate interview prep skill that receives this document can build on it immediately rather than starting from scratch.
+These are the natural inputs for an interview preparation skill or coaching process. The narrative document and organizational research together form a powerful scaffold — the candidate knows who they are (narrative), who they are talking to (org research), what their gaps are (probability assessment), and how to frame their story for specific readers (decision-maker profiles).
 
-The candidate should be told this explicitly at the end of the process: "You now have a narrative document, a skill inventory, and targeted application materials. If you want help preparing for interviews, these documents are the starting point — bring them to the next conversation."
+The candidate should be told this explicitly at the end of the process: "You now have everything you need to apply and a foundation for interview preparation. Bring these documents to the next conversation."
 
 ---
 

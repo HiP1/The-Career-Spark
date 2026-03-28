@@ -1,4 +1,4 @@
-# Resume Rework — Cover Letter Guide
+# The Career Spark — Cover Letter Guide
 
 Framework for creating targeted cover letters that make arguments, not introductions.
 

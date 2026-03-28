@@ -1,4 +1,4 @@
-# Resume Rework — Calibration Guide
+# The Career Spark — Calibration Guide
 
 How to handle underselling, overselling, friction points, "negative" self-descriptions, and the fine line between accuracy and persuasion.
 

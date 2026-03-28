@@ -12,7 +12,7 @@ It takes a candidate's existing CV, career history, and available evidence — t
 
 ## How It Works
 
-Six phases, each building on the previous one:
+Seven phases, each building on the previous one:
 
 | Phase | Purpose | Key Output |
 |-------|---------|------------|
@@ -22,6 +22,7 @@ Six phases, each building on the previous one:
 | 4. Target | Match to specific roles | Role-resume fit analysis, ATS optimization |
 | 5. Cover | Write targeted arguments | Cover letters per role |
 | 6. Evaluate | Stress-test from buyer's perspective | Vulnerability report and preparation plan |
+| 7. Deliver | Get materials to the right person | Distribution strategy, outreach plan |
 
 The candidate's corrections drive the process. Every correction in the original project made the output both more honest and more compelling. The skill builds correction checkpoints into every phase.
 
@@ -45,6 +46,8 @@ career-spark/
     ├── narrative-archetypes.md           12 career through-line patterns
     ├── evidence-without-portfolio.md     Finding proof when no artifacts exist
     ├── cover-letter-guide.md             Targeted cover letter framework
+    ├── application-intelligence.md       Org mapping, outreach, distribution strategy
+    ├── candidate-psychology.md           Emotional states, resistance, self-image conflicts
     └── cultural-norms.md                 Resume conventions by country/region
 ```
 
@@ -57,23 +60,24 @@ The SKILL.md is the entry point. Reference files are loaded on demand based on t
 - **Anyone targeting specific roles** who needs tailored application materials, not a generic CV polish
 - **Early-career candidates** who need help framing limited experience and building toward stronger evidence
 - **Cross-border applicants** targeting markets with different cultural resume conventions
+- **Candidates with a dream job** who want to maximize their chances of getting the interview through organizational research and strategic distribution
 
 ## What It Does NOT Do
 
-This skill produces resumes, CVs, cover letters, and the strategic narrative that underpins them. It does not cover interview preparation, salary negotiation, or LinkedIn content strategy. However, its outputs — the career narrative, skill inventory, and collected interview stories — are designed as natural inputs for those activities.
+This skill produces resumes, CVs, cover letters, the strategic narrative that underpins them, and (optionally) a distribution strategy to get the application to the right person. It does not cover interview preparation, salary negotiation, or LinkedIn content strategy. However, its outputs — the career narrative, skill inventory, organizational research, and collected interview stories — are designed as natural inputs for those activities.
 
 ## Installation
- 
+
 ### As a Claude Skill
- 
+
 Download the `.skill` file from the [Releases](../../releases) page, then install it in your Claude environment.
- 
+
 ### Other AI Providers (ChatGPT, Gemini, etc.)
- 
+
 The `.skill` file is a standard zip archive. Rename it from `career-spark.skill` to `career-spark.zip`, upload it to your chat platform, and ask the model to use the skill contained in the zip file. The `SKILL.md` is the entry point; the reference files in `references/` are loaded as needed.
- 
+
 ### Manual
- 
+
 Clone or download this repository. Point your AI tool at the `SKILL.md` file as the entry point.
 
 ## Origin

@@ -1,4 +1,4 @@
-# Resume Rework — Principles Reference
+# The Career Spark — Principles Reference
 
 This file contains the full principle set distilled from the real project that produced this skill. Read before starting any phase.
 

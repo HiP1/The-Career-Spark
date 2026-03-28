@@ -1,4 +1,4 @@
-# Resume Rework — Cultural Norms by Market
+# The Career Spark — Cultural Norms by Market
 
 This reference file exists because resume conventions vary significantly across countries and cultures. A frontier model with strong cultural knowledge can infer many of these norms. A less capable model cannot and will default to US conventions, which may actively harm the candidate in non-US markets. This file provides explicit norms to prevent that failure mode.
 
