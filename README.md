@@ -63,13 +63,17 @@ The SKILL.md is the entry point. Reference files are loaded on demand based on t
 This skill produces resumes, CVs, cover letters, and the strategic narrative that underpins them. It does not cover interview preparation, salary negotiation, or LinkedIn content strategy. However, its outputs — the career narrative, skill inventory, and collected interview stories — are designed as natural inputs for those activities.
 
 ## Installation
-
+ 
 ### As a Claude Skill
-
+ 
 Download the `.skill` file from the [Releases](../../releases) page, then install it in your Claude environment.
-
+ 
+### Other AI Providers (ChatGPT, Gemini, etc.)
+ 
+The `.skill` file is a standard zip archive. Rename it from `career-spark.skill` to `career-spark.zip`, upload it to your chat platform, and ask the model to use the skill contained in the zip file. The `SKILL.md` is the entry point; the reference files in `references/` are loaded as needed.
+ 
 ### Manual
-
+ 
 Clone or download this repository. Point your AI tool at the `SKILL.md` file as the entry point.
 
 ## Origin
