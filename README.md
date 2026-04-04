@@ -19,28 +19,33 @@ Seven phases, each building on the previous one:
 | 1. Extract | Find the real skill set | Skill inventory with gaps identified |
 | 2. Narrate | Build the strategic backbone | Career narrative document |
 | 3. Draft | Create the resume | Resume in target format(s) |
-| 4. Target | Match to specific roles | Role-resume fit analysis, ATS optimization |
+| 4. Target | Search the market, match to roles, optimize for ATS | Role landscape, salary data, ATS-ready resume |
 | 5. Cover | Write targeted arguments | Cover letters per role |
 | 6. Evaluate | Stress-test from buyer's perspective | Vulnerability report and preparation plan |
-| 7. Deliver | Get materials to the right person | Distribution strategy, outreach plan |
+| 7. Deliver | Get materials to the right person (optional — activate when ready) | Distribution strategy, outreach plan |
 
 The candidate's corrections drive the process. Every correction in the original project made the output both more honest and more compelling. The skill builds correction checkpoints into every phase.
+
+The process supports multi-session work with a structured handoff mechanism. When a session gets long, the AI produces a detailed handoff document and packages all working files so the next session can pick up exactly where this one left off.
 
 ## Key Principles
 
 - **Extraction before drafting.** Never write a resume from scratch. Extract skills, infer hidden ones, then build.
 - **Narrative before format.** Without a strategic backbone, the resume is a list of jobs.
 - **Accurate altitude.** Neither underselling nor overselling. The target is the framing that is both fully honest and maximally compelling.
+- **Helpful means the candidate gets hired.** Not "the candidate feels good about the document." Agreement is not the service. The candidate getting hired for a role they thrive in is the service.
+- **Warmth and honesty are not competing.** Pushback delivered with care, not withheld to avoid friction. The candidate should feel the AI is on their side even when it disagrees with them.
 - **Duty of care.** The resume carries the candidate's name. The AI actively scans for legal, professional, and reputational risks — including consequences the candidate has not anticipated.
 - **The candidate is always right about their own experience.** Then the AI helps frame it in the language the job market uses.
+- **Generate options, not conclusions.** The AI's role is generative. The candidate's role is editorial. The candidate should choose, not just accept.
 
 ## Skill Structure
 
 ```
 career-spark/
-├── SKILL.md                              Main workflow
+├── SKILL.md                              Main workflow (entry point)
 └── references/
-    ├── principles.md                     Master principle set
+    ├── principles.md                     Master principle set, helpfulness redefinition
     ├── calibration-guide.md              Underselling/overselling calibration
     ├── overclaiming-guide.md             Psychology of inflation and de-escalation
     ├── narrative-archetypes.md           12 career through-line patterns
@@ -51,7 +56,7 @@ career-spark/
     └── cultural-norms.md                 Resume conventions by country/region
 ```
 
-The SKILL.md is the entry point. Reference files are loaded on demand based on the phase and candidate situation.
+The SKILL.md is the entry point. Reference files are loaded on demand based on the phase and candidate situation. The `.skill` package contains only these 10 files. README and LICENSE are for the repository, not for the AI.
 
 ## Who It's For
 
@@ -60,7 +65,7 @@ The SKILL.md is the entry point. Reference files are loaded on demand based on t
 - **Anyone targeting specific roles** who needs tailored application materials, not a generic CV polish
 - **Early-career candidates** who need help framing limited experience and building toward stronger evidence
 - **Cross-border applicants** targeting markets with different cultural resume conventions
-- **Candidates with a dream job** who want to maximize their chances of getting the interview through organizational research and strategic distribution
+- **Candidates with a dream job** who want to maximize their chances through organizational research and strategic distribution
 
 ## What It Does NOT Do
 
@@ -82,9 +87,9 @@ Clone or download this repository. Point your AI tool at the `SKILL.md` file as 
 
 ## Origin
 
-This skill was developed from a real multi-session resume rework project (March 2026) between [Ivan "HiP" Phan](https://github.com/hip1) and Claude. Every principle was discovered through practice and refined through candidate pushback. The four-chat process that produced the original resume was documented, generalized, and extended to cover a broad range of candidates and markets.
+This skill was developed from a real multi-session resume rework project (March–April 2026) between [Ivan "HiP" Phan](https://github.com/hip1) and Claude. The four-chat process that produced the original resume was documented, then generalized and extended through a dedicated skill-creation session into a tool for any candidate in any industry.
 
-The candidate's corrections were the single most valuable input in the original project. A process that does not build in correction loops will produce resumes that are polished but wrong. That insight is the foundation of the entire skill.
+Every principle was discovered through practice and refined through candidate pushback. The candidate's corrections were the single most valuable input in the original project. A process that does not build in correction loops will produce resumes that are polished but wrong. That insight is the foundation of the entire skill.
 
 ## License
 

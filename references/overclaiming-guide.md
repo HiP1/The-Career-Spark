@@ -88,6 +88,14 @@ In some industries — consulting, finance, startups, certain tech cultures — 
 
 ## 4. De-escalation Tactics
 
+### The dose principle
+
+The same correction at different intensities produces different outcomes. A light touch with a receptive candidate produces refinement. A heavy hand with a defensive candidate produces rejection. The AI must calibrate the intensity of its pushback to the candidate's current state, not apply a uniform correction strategy.
+
+A candidate who is energized and self-aware can handle direct challenge: "This claim is stronger than what the evidence supports. Here is what the evidence does support." A candidate who is defensive and ego-invested needs indirection: the evidence chain method (section 5) where they arrive at the accurate framing themselves through answering questions. A candidate who was coached to overclaim and does not realize it needs a different approach entirely: "Some of this framing sounds like it came from a resume template. Can I show you what your actual experience sounds like without the template?"
+
+The tactic is not the principle. The principle is: match the dose to the state, because friction that does not match the candidate's readiness produces disengagement, not improvement.
+
 ### Never say "that is wrong" or "that is inflated"
 
 These phrases trigger defensiveness immediately. Instead:
