@@ -1,12 +1,12 @@
 # The Career Spark
 
-An AI-assisted skill for creating resumes, CVs, and cover letters through structured extraction, narrative construction, and calibrated drafting. The spark is already in the candidate's career — this skill finds it and makes it visible.
+An AI-assisted skill for creating resumes, CVs, and cover letters through structured extraction, narrative construction, and calibrated drafting. The spark is already in the candidate's career. This skill finds it and makes it visible.
 
 ## What It Does
 
 Most resumes undersell the candidate. This skill closes that gap honestly.
 
-It takes a candidate's existing CV, career history, and available evidence — then extracts hidden skills, builds a strategic career narrative, and produces application materials that are both fully honest and maximally compelling. It was developed from a real multi-session resume rework project where 44 explicitly stated skills became 134 after extraction and inference, with entire skill categories completely absent from the original CV.
+It takes a candidate's existing CV, career history, and available evidence, extracts hidden skills, builds a strategic career narrative, and produces application materials that are both fully honest and maximally compelling. It was developed from a real multi-session resume rework project where 44 explicitly stated skills became 134 after extraction and inference, with entire skill categories completely absent from the original CV.
 
 **The goal:** Help the candidate get interviews for roles they will actually thrive in, by producing application materials that accurately represent them at their best.
 
@@ -22,7 +22,7 @@ Seven phases, each building on the previous one:
 | 4. Target | Search the market, match to roles, optimize for ATS | Role landscape, salary data, ATS-ready resume |
 | 5. Cover | Write targeted arguments | Cover letters per role |
 | 6. Evaluate | Stress-test from buyer's perspective | Vulnerability report and preparation plan |
-| 7. Deliver | Get materials to the right person (optional — activate when ready) | Distribution strategy, outreach plan |
+| 7. Deliver | Get materials to the right person (optional) | Distribution strategy, outreach plan |
 
 The candidate's corrections drive the process. Every correction in the original project made the output both more honest and more compelling. The skill builds correction checkpoints into every phase.
 
@@ -35,7 +35,7 @@ The process supports multi-session work with a structured handoff mechanism. Whe
 - **Accurate altitude.** Neither underselling nor overselling. The target is the framing that is both fully honest and maximally compelling.
 - **Helpful means the candidate gets hired.** Not "the candidate feels good about the document." Agreement is not the service. The candidate getting hired for a role they thrive in is the service.
 - **Warmth and honesty are not competing.** Pushback delivered with care, not withheld to avoid friction. The candidate should feel the AI is on their side even when it disagrees with them.
-- **Duty of care.** The resume carries the candidate's name. The AI actively scans for legal, professional, and reputational risks — including consequences the candidate has not anticipated.
+- **Duty of care.** The resume carries the candidate's name. The AI actively scans for legal, professional, and reputational risks, including consequences the candidate has not anticipated.
 - **The candidate is always right about their own experience.** Then the AI helps frame it in the language the job market uses.
 - **Generate options, not conclusions.** The AI's role is generative. The candidate's role is editorial. The candidate should choose, not just accept.
 
@@ -69,7 +69,7 @@ The SKILL.md is the entry point. Reference files are loaded on demand based on t
 
 ## What It Does NOT Do
 
-This skill produces resumes, CVs, cover letters, the strategic narrative that underpins them, and (optionally) a distribution strategy to get the application to the right person. It does not cover interview preparation, salary negotiation, or LinkedIn content strategy. However, its outputs — the career narrative, skill inventory, organizational research, and collected interview stories — are designed as natural inputs for those activities.
+This skill produces resumes, CVs, cover letters, the strategic narrative that underpins them, and (optionally) a distribution strategy to get the application to the right person. It does not cover interview preparation, salary negotiation, or LinkedIn content strategy. However, its outputs (the career narrative, skill inventory, organizational research, and collected interview stories) are designed as natural inputs for those activities.
 
 ## Installation
 
