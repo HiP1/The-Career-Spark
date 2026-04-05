@@ -77,9 +77,17 @@ This skill produces resumes, CVs, cover letters, the strategic narrative that un
 
 Download the `.skill` file from the [Releases](../../releases) page, then install it in your Claude environment.
 
-### Other AI Providers (ChatGPT, Gemini, etc.)
+### Gemini
 
-The `.skill` file is a standard zip archive. Rename it from `career-spark.skill` to `career-spark.zip`, upload it to your chat platform, and ask the model to use the skill contained in the zip file. The `SKILL.md` is the entry point; the reference files in `references/` are loaded as needed.
+Use the [Career Spark Gem](https://gemini.google.com/gem/1G_9r7u-X_TKPIX5MsdDz-WNJK3EU3n0_?usp=sharing) directly. For best results, select the model with the highest thinking capability. Pro is recommended. Thinking mode is a good alternative. Fast will work but may miss nuance in the calibration and psychological adaptation.
+
+### ChatGPT
+
+Use the [Career Spark CustomGPT](https://chatgpt.com/g/g-69d26d47523881919acd487ef609384a-the-career-spark). Select the best model you have access to. Note: the CustomGPT cannot access your memories or chat history. If you need the skill to reference prior conversations or personal context, download the `.skill` file from the [Releases](../../releases) page and drop it directly into a chat instead.
+
+### Other AI Providers
+
+The `.skill` file is a standard zip archive. Download it from the [Releases](../../releases) page, rename it from `career-spark.skill` to `career-spark.zip`, upload it to your chat platform, and ask the model to use the skill contained in the zip file. The `SKILL.md` is the entry point; the reference files in `references/` are loaded as needed. Use the most capable model available on your platform.
 
 ### Manual
 
