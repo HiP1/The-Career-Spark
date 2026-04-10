@@ -1,5 +1,7 @@
 # The Career Spark
 
+🇫🇷 [Français](README.fr.md) | 🇪🇸 [Español](README.es.md)
+
 An AI-assisted skill for creating resumes, CVs, and cover letters through structured extraction, narrative construction, and calibrated drafting. The spark is already in the candidate's career. This skill finds it and makes it visible.
 
 ## What It Does
